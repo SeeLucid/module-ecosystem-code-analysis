@@ -13,3 +13,5 @@ News feeds
 * https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=CRANberriesFeed
 * http://www.mail-archive.com/ctan-ann@dante.de/maillist.xml
 * http://registry.npmjs.org/-/rss?descending=true&limit=50
+
+Indirectly related: http://lumberjaph.net/graph/2010/03/25/github-explorer.html
