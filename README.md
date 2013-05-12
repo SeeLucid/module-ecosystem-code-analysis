@@ -14,4 +14,9 @@ News feeds
 * http://www.mail-archive.com/ctan-ann@dante.de/maillist.xml
 * http://registry.npmjs.org/-/rss?descending=true&limit=50
 
+Not a feed, but can be scraped:
+
+* https://code.google.com/p/go-wiki/wiki/Projects
+
+
 Indirectly related: http://lumberjaph.net/graph/2010/03/25/github-explorer.html
