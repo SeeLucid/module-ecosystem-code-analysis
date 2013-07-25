@@ -18,5 +18,3 @@ Not a feed, but can be scraped:
 
 * https://code.google.com/p/go-wiki/wiki/Projects
 
-
-Indirectly related: http://lumberjaph.net/graph/2010/03/25/github-explorer.html
