@@ -9,3 +9,8 @@ Potential questions
 - Similar projects
   - http://lumberjaph.net/graph/2010/03/25/github-explorer.html
   - https://github.com/hadley/r-on-github
+
+- see how interconnected classes are
+  - inheritance
+  - attributes
+  - function calls
