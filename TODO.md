@@ -14,3 +14,5 @@ Potential questions
   - inheritance
   - attributes
   - function calls
+
+- code coverage of test suites
