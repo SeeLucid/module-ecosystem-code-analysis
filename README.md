@@ -17,4 +17,6 @@ News feeds
 Not a feed, but can be scraped:
 
 * https://code.google.com/p/go-wiki/wiki/Projects
+* https://github.com/sindresorhus/bower-component-list/
+  * https://github.com/sindresorhus/bower-components
 
