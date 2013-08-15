@@ -23,3 +23,8 @@ Potential questions
   - what happens when the author is not responding to bug reports / patches?
   - Maven [Java]: <http://www.sonatype.org/nexus/> via <http://irclog.greptilian.com/sourcefu/2013-08-15#i_17739>
 
+Tools
+=====
+
+* http://getcomposer.org/doc/05-repositories.md
+
