@@ -16,3 +16,8 @@ Potential questions
   - function calls
 
 - code coverage of test suites
+
+- investigate tools for mirroring dependencies
+  - what happens when the repository goes down?
+  - what happens when a package is deleted by the author
+  - what happens when the author is not responding to bug reports / patches?
