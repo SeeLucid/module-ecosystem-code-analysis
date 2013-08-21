@@ -17,6 +17,11 @@ Potential questions
 
 - code coverage of test suites
 
+- New users
+  - <http://blogs.perl.org/users/ron_savage/2013/08/volunteer-time-series-stats-of-new-pause-ids.html>
+  - <http://neilb.org/2013/08/16/cpan-buddy-system.html>
+
+
 - investigate tools for mirroring dependencies
   - what happens when the repository goes down?
   - what happens when a package is deleted by the author
