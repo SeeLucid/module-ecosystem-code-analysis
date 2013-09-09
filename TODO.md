@@ -33,3 +33,5 @@ Tools
 
 * http://getcomposer.org/doc/05-repositories.md
 
+* https://bitbucket.org/logilab/astroid/
+  * http://www.logilab.org/project/logilab-astng
