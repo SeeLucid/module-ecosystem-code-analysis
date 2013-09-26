@@ -28,6 +28,10 @@ Potential questions
   - what happens when the author is not responding to bug reports / patches?
   - Maven [Java]: <http://www.sonatype.org/nexus/> via <http://irclog.greptilian.com/sourcefu/2013-08-15#i_17739>
 
+Fun:
+
+- <http://developers.slashdot.org/story/13/09/25/2042210/the-most-wtf-y-programming-languages>
+
 Tools
 =====
 
