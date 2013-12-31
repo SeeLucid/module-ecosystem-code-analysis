@@ -41,3 +41,5 @@ Tools
 
 * https://bitbucket.org/logilab/astroid/
   * http://www.logilab.org/project/logilab-astng
+
+* http://rigaux.org/language-study/
