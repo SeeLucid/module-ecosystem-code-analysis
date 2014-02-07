@@ -28,6 +28,8 @@ Potential questions
   - what happens when the author is not responding to bug reports / patches?
   - Maven [Java]: <http://www.sonatype.org/nexus/> via <http://irclog.greptilian.com/sourcefu/2013-08-15#i_17739>
 
+- look at other relationships beyond dependencies: suggested packages,  links
+
 Fun:
 
 - <http://developers.slashdot.org/story/13/09/25/2042210/the-most-wtf-y-programming-languages>
@@ -39,5 +41,7 @@ Tools
 
 * https://bitbucket.org/logilab/astroid/
   * http://www.logilab.org/project/logilab-astng
+
+* http://rigaux.org/language-study/
 
 * http://flossmole.org/
