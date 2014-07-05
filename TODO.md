@@ -14,6 +14,8 @@ Potential questions
   - inheritance
   - attributes
   - function calls
+  - which packages are used together often?
+    - search both on package repos and maybe places like StackOverflow
 
 - code coverage of test suites
 
