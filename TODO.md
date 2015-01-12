@@ -8,6 +8,17 @@ Potential questions
 
 - Similar projects
   - http://lumberjaph.net/graph/2010/03/25/github-explorer.html
+    - https://lumberjaph.net/github-explorer/
+    - https://lumberjaph.net/stargit/
+      - https://github.com/bigpresh/StarGit
+      - https://github.com/jacomyal/SiGMa-StarGit
+      - http://www.quora.com/How-can-I-find-Github-projects-that-suit-me-contributing-to-them
+      - http://www.nature.com/srep/2013/130207/srep01236/full/srep01236.html
+      - http://storiesthroughdata.blogs.lincoln.ac.uk/2012/02/12/network-and-relationship-visualisation/
+      - https://github.com/linkfluence/StarGit
+  - Geography of open-source
+    - http://takhteyev.org/papers/Takhteyev-Hilts-2010.pdf
+    - http://codingplaces.net/
   - https://github.com/hadley/r-on-github
 
 - see how interconnected classes are
