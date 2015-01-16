@@ -20,6 +20,7 @@ Potential questions
     - http://takhteyev.org/papers/Takhteyev-Hilts-2010.pdf
     - http://codingplaces.net/
   - https://github.com/hadley/r-on-github
+  - https://github.com/hadley/r-python
 
 - see how interconnected classes are
   - inheritance
