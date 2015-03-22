@@ -41,6 +41,11 @@ Potential questions
   - what happens when a package is deleted by the author
   - what happens when the author is not responding to bug reports / patches?
   - Maven [Java]: <http://www.sonatype.org/nexus/> via <http://irclog.greptilian.com/sourcefu/2013-08-15#i_17739>
+  - http://stackoverflow.com/questions/27940768/use-julia-language-without-internet-connection-mirror/27942130
+  - http://cran.r-project.org/mirror-howto.html
+  - https://pypi.python.org/pypi/bandersnatch
+    - https://packaging.python.org/en/latest/mirrors.html
+    - http://doc.devpi.net/latest/quickstart-pypimirror.html
 
 - look at other relationships beyond dependencies: suggested packages,  links
 
